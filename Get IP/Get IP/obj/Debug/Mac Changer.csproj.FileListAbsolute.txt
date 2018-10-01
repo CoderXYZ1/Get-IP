@@ -1,0 +1,10 @@
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\bin\Debug\Mac Changer.exe.config
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\bin\Debug\Mac Changer.exe
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\bin\Debug\Mac Changer.pdb
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Mac Changer.csprojAssemblyReference.cache
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Mac_Changer.Form1.resources
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Mac_Changer.Properties.Resources.resources
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Mac Changer.csproj.GenerateResource.cache
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Mac Changer.csproj.CoreCompileInputs.cache
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Mac Changer.exe
+C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Mac Changer.pdb
