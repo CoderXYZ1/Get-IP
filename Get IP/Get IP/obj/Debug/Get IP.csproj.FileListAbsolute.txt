@@ -1,9 +1,0 @@
-C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Mac_Changer.Form1.resources
-C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Get IP.csproj.GenerateResource.cache
-C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Get IP.csproj.CoreCompileInputs.cache
-C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\bin\Debug\Get IP.exe.config
-C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\bin\Debug\Get IP.exe
-C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\bin\Debug\Get IP.pdb
-C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Get_IP.Properties.Resources.resources
-C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Get IP.exe
-C:\Users\CehDe\source\repos\Mac Changer\Mac Changer\obj\Debug\Get IP.pdb
